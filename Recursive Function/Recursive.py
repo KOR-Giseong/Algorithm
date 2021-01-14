@@ -36,4 +36,4 @@ def func(sum, x):
             visited[i] = False
 
 func(0, ans)
-print('결과:', ret)
+print('결과:', ret);
